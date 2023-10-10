@@ -18,6 +18,9 @@ window._laq.push(function(){liveagent.showWhenOnline('573Ae0000002a7R', document
 
 <script type='text/javascript' src='https://c.la2s-core1.sfdc-5pakla.salesforceliveagent.com/content/g/js/58.0/deployment.js'></script>
 <script type='text/javascript'>
+liveagent.addCustomDetail('spacename', '%placeId%'); 
+liveagent.addCustomDetail('ctype', '%cust_type%'); 
+liveagent.addCustomDetail('orgid', '%orgid%'); 
 liveagent.init('https://d.la2s-core1.sfdc-5pakla.salesforceliveagent.com/chat', '572Ae000000Ku65', '00D2z0000005RKm');
 </script>
 
