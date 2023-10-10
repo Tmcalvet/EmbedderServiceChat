@@ -1,3 +1,8 @@
+<html>
+
+<head></head>
+
+<body>
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
@@ -69,5 +74,7 @@ liveagent.init('https://d.la2s-core1.sfdc-5pakla.salesforceliveagent.com/chat', 
 	} else {
 		initESW('https://service.force.com');
 	}
+</body>
 
+</html>
 
