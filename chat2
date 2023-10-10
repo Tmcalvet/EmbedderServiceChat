@@ -2,7 +2,7 @@
 
 <head></head>
 
-<body>
+
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
@@ -12,7 +12,7 @@
 		outline: 1px solid #005290;
 	}
 </style>
-
+<body>
 <a id="liveagent_button_online_573Ae0000002a7R" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a><div id="liveagent_button_offline_573Ae0000002a7R" style="display: none;">No hay ningún Agente Online</div><script type="text/javascript">
 if (!window._laq) { window._laq = []; }
 window._laq.push(function(){liveagent.showWhenOnline('573Ae0000002a7R', document.getElementById('liveagent_button_online_573Ae0000002a7R'));
