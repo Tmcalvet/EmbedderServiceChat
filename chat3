@@ -9,7 +9,7 @@
 <h1>Welcome!</h1>
       Thank you for contacting customer support. 
 <p/>
-<a href="javascript://Chat" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a>
+<a id="liveagent_button_online_573Ae0000002a7R" href="javascript://Chat" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a>
   
 <script type="text/javascript">
 if (!window._laq) { window._laq = []; }
