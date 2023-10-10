@@ -6,12 +6,15 @@
 
 
 <body>
-<a id="liveagent_button_online_573Ae0000002a7R" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a>
+<h1>Welcome!</h1>
+      Thank you for contacting customer support. 
+<p/>
+<a id="liveagent_button_online_573Ae0000002a7R" href="javascript://Chat" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a>
   
 <script type="text/javascript">
 if (!window._laq) { window._laq = []; }
-window._laq.push(function(){liveagent.showWhenOnline('573Ae0000002a7R', document.getElementById('liveagent_button_online_573Ae0000002a7R'));
-});</script>
+window._laq.push(function(){liveagent.showWhenOnline('573Ae0000002a7R', document.getElementById('liveagent_button_online_573Ae0000002a7R')); });
+</script>
 
 <script type='text/javascript' src='https://c.la2s-core1.sfdc-5pakla.salesforceliveagent.com/content/g/js/58.0/deployment.js'></script>
 <script type='text/javascript'>
