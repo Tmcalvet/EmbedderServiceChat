@@ -10,14 +10,7 @@
 <h1>Welcome!</h1>
       Thank you for contacting customer support. 
 <p/>
-<script type="text/javascript> 
-    if(window.Prototype) {
-        delete Object.prototype.toJSON;
-        delete Array.prototype.toJSON;
-        delete Hash.prototype.toJSON;
-        delete String.prototype.toJSON;
-    }
-</script>  
+
 <a id="liveagent_button_online_573Ae0000002a7R" href="javascript://Chat" onclick="liveagent.startChat('573Ae0000002a7R')">Start Chat</a>
 
 <script type="text/javascript">
