@@ -18,7 +18,7 @@ if (!window._laq) { window._laq = []; }
 window._laq.push(function(){liveagent.showWhenOnline('573Ae0000002a7R', document.getElementById('liveagent_button_online_573Ae0000002a7R')); });
 </script>
 
-<script type='text/javascript' src='https://c.la2s-core1.sfdc-5pakla.salesforceliveagent.com/content/g/js/58.0/deployment.js'></script>
+<script type='text/javascript' src='https://c.la2s-core1.sfdc-5pakla.salesforceliveagent.com/content/g/js/59.0/deployment.js'></script>
 <script type='text/javascript'>
 liveagent.addCustomDetail('spacename', '%placeId%'); 
 liveagent.addCustomDetail('ctype', '%cust_type%'); 
